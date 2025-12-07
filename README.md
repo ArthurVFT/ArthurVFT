@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1996<br>📚 I'm currently learning Python, C, Arduino IDE, HTML, CSS, JavaScript.<br>🎯 Goals: Help people, create new things, never settledown, always push foward, learn new languages (both humans and machines)<br>🎲 Fun fact: I am also a Dentist with 6 years of experience and who loves helping those who need the most</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Python, C, Arduino IDE, HTML, CSS, JavaScript.<br>🎯 Goals: Help people, create new things, never settledown, always push foward, learn new languages (both humans and machines)<br>🎲 Fun fact: I am also a Dentist with 6 years of experience and who loves helping those who need the most</p>
 
 ###
 
