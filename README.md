@@ -21,12 +21,6 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.vft@gmail.com)
 </div>
 
----
-
-<div align='center'><img src = "executor.png" alt="Executor-Class Super Star Destroyer" height="300"/></div>
-
----
-
 
 <h2 align="left">I code with</h2>
 
